@@ -1,8 +1,8 @@
 """ EE 250L Lab 02: GrovePi Sensors
 
-List team members here.
+Zhuoyao Chen
 
-Insert Github repository link here.
+https://github.com/usc-ee250-spring2021/lab02-ZhuoyaoChen23
 """
 
 """python3 interpreters in Ubuntu (and other linux distros) will look in a 
